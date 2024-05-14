@@ -1,4 +1,4 @@
 # Pushkar-practice
 this repository is for practice 
 <br>
-author - pushkar singh
+author - pushkar singh(Rai university)
